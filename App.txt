@@ -1,0 +1,24 @@
+
+   1. Download Java and set Java_Home in environmental variables
+    2.Download Android STUDIO from below link
+    3.https://developer.android.com/studio/index.html
+    4.Check Android installation path in Machine
+    5.Set Android_Home Environmental variables path to SDK location and include bin folder paths in PATH variable
+    6.Open Android Studio and configure Virtual device/Emulator
+    7.Open Emulator and check if it is working.
+    8.Download Node.js                                                                                                                       
+    https://nodejs.org/en/download/
+    9.Set Node_Home Environmental variables path
+    10.Set npm Environmental variables path
+    11.Download Appium Server from Node
+    12.Download Appium and Selenium Java client library
+    13.Install Eclipse – Create a Project in Eclipse - configure Appium libraries
+    Start Appium Server-
+
+//Client  - Appium java  client
+
+//Server  - Appium Server
+
+//You can download any node module only using npm
+
+npm install – g appium –  Latest Stable release version 1.6.9 – Android
